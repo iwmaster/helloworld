@@ -6,5 +6,6 @@ export default function decorate(block) {
   [...block.children].forEach((row) => {
     h2.innerHTML = row.innerHTML;
   });
+  block.innerHTML = '';
   block.append(h2);
 }
