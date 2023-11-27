@@ -5,7 +5,6 @@ export default function decorate(block) {
   const h2 = document.createElement('h2');
   [...block.children].forEach((row) => {
     h2.innerHTML = row.innerHTML;
-    h2.append(h2);
   });
   block.innerHTML = '';
   block.append(h2);
