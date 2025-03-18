@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/iwmaster/helloworld/
+    url: https://da.live/edit#/iwmaster/helloworld/index/
     type: markup
