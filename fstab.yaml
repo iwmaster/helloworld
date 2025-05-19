@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/iwmaster/helloworld/
+    url: https://drive.google.com/drive/u/0/folders/1PurV-mEWWJQk8hyhqcC8yrMwZUAwDURc
     type: markup
